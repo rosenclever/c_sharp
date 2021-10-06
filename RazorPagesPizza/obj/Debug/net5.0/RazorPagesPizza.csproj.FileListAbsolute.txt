@@ -37,3 +37,4 @@
 /Users/rosenclevergazoni/Sites/aulas/c_sharp/RazorPagesPizza/obj/Debug/net5.0/RazorPagesPizza.pdb
 /Users/rosenclevergazoni/Sites/aulas/c_sharp/RazorPagesPizza/obj/Debug/net5.0/RazorPagesPizza.genruntimeconfig.cache
 /Users/rosenclevergazoni/Sites/aulas/c_sharp/RazorPagesPizza/obj/Debug/net5.0/RazorPagesPizza.csproj.CopyComplete
+/Users/rosenclevergazoni/Sites/aulas/c_sharp/RazorPagesPizza/obj/Debug/net5.0/Razor/Pages/Pizza.cshtml.g.cs
